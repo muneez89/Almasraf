@@ -10,7 +10,10 @@ public class CompanyInfo {
 	private void sysout() {
 		// TODO Auto-generated method stub
 		System.out.println("Mani edit");
+
+		System.out.println("Jeeva edit");
 	}
+	
 	private void companyName(String name,String location,int strength) {
 		
 		System.out.println("Company Name" +name);
