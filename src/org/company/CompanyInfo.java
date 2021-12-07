@@ -7,7 +7,10 @@ public class CompanyInfo {
 	System.out.println("Company Id:" +id);
 
 	}
-	
+	private void sysout() {
+		// TODO Auto-generated method stub
+
+	}
 	private void companyName(String name,String location,int strength) {
 		
 		System.out.println("Company Name" +name);
