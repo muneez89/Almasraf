@@ -7,7 +7,7 @@ public class CompanyInfo {
 	System.out.println("Company Id:" +id);
 
 	}
-	
+	sysout();
 	private void companyName(String name,String location,int strength) {
 		
 		System.out.println("Company Name" +name);
