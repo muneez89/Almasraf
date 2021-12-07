@@ -9,7 +9,7 @@ public class CompanyInfo {
 	}
 	private void sysout() {
 		// TODO Auto-generated method stub
-
+		System.out.println("Mani edit");
 	}
 	private void companyName(String name,String location,int strength) {
 		
